@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing-demo",
+  "version": "1.0.0",
+  "description": "this is demo unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "amira",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
